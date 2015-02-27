@@ -2,3 +2,19 @@ body
 {
     backface-visibility: hidden;
 }
+p
+{
+    border-bottom: 3ppx;
+}
+section
+{
+    background: eaeaea;
+}
+otro
+{
+    align-content: center;
+}
+footer
+{
+    shape-inside: auto;
+}
