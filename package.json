@@ -1,0 +1,15 @@
+ {
+    "name": "roberthchan.geekotheme",
+    "title": "Geeko Theme",
+    "description": "Tema basado en la guía de estilo de openSUSE, justo para geekos.",
+    "homepage": "https://github.com/roberthchan/geekotheme",
+    "version": "1.0.0",
+    "author": "Roberth Chan chanbalamb@gmail.com (http://soundcoloryellow.wordpress.com/)",
+    "license": "CC BY",
+    "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
