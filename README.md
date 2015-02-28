@@ -1,2 +1,2 @@
-# geekowater
-Tema basado en la guía de estilo de Peter Gabriel's Debut Album en TheDaysColor,
+# Geekowater
+Tema basado en la guía de estilo de Peter Gabriel's Debut Album en TheDaysColor, con un toque Geeko.
