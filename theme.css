@@ -28,7 +28,7 @@
 }
 
 .cm-atom, .cm-string, .cm-string-2, .cm-hr {color: #56a0ac;} /*Importante Color de las variables y textos variables*/
-.cm-number, .cm-attribute, .cm-plus {color: #123e49;} /*Importante las id clases de html5*/
+.cm-number, .cm-attribute, .cm-plus {color: #1a6577;} /*Importante las id clases de html5*/
 .cm-def, .cm-property {color: rgb(200, 193, 183)}/*Importante atributos del css*/
 .cm-variable, .cm-variable-2, .cm-variable-3, .cm-operator, .cm-meta, .cm-bracket {color: @foreground;}
 .cm-comment {color: #3a4944;} /*Aqui para un comentario imagino xD*/
@@ -36,7 +36,7 @@
 .cm-header {color: #d85896;} /*Color rosita ni ideas*/
 .cm-link {color: #b77fdb; text-decoration: none;}
 .cm-rangeinfo {color: #6c71c4;}
-.cm-keyword, .cm-qualifier, .cm-builtin, .cm-tag, .cm-quote {color: #123e49;} /*Importante color de las etiquetas html, clases css*/
+.cm-keyword, .cm-qualifier, .cm-builtin, .cm-tag, .cm-quote {color: #008b8b;} /*Importante color de las etiquetas html, clases css*/
 
 /* Extra CSS */
 
@@ -70,8 +70,8 @@
 
 .CodeMirror-matchingbracket, .CodeMirror-matchingtag {
     /* Garantizar la visibilidad contra fondo gris editor en línea */
-    background-color: #171d1b; /*Cierre de corchetes y seleccion completa de una seccion*/
-    color: @foreground !important;
+    background-color: #162623; /*Cierre de corchetes y seleccion completa de una seccion*/
+    color: #00d319 !important; /*Letras dentro del la seccion sombreada*/
 }
 
 .CodeMirror-overwrite .CodeMirror-cursor {
