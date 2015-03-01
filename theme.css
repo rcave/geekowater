@@ -1,11 +1,11 @@
 /* Define algunas variables usadas en multiples lugares */
-@background: #000;
-@foreground: #333;
+@background: #000; /*Barra lateral de los numeros*/
+@foreground: #174e14;
 
 /* Estilo de Codigo */
 
 .CodeMirror, .CodeMirror-scroll {
-    background-color: #000; /*fondo del brackets*/
+    background-color: #0b0b0b; /*fondo del brackets*/
     color: #fff; /*color de corchetes y texto en blanco html*/
 }
 
