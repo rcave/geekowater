@@ -14,7 +14,7 @@
 }
 
 .show-line-padding .CodeMirror-focused .CodeMirror-activeline-background {
-    box-shadow: inset 15px 0 0 0 #00ffce; /**/
+    box-shadow: inset 15px 0 0 0 #00ffce;
 }
 
 .CodeMirror-focused .CodeMirror-activeline {
@@ -23,7 +23,7 @@
         color: #40ff27; /* color del numero de linea*/
     }
     .inline-widget .CodeMirror-gutter-elt {
-        color: #e03eb4;    /*Todavia no se xD*/
+        color: #8b8b8b;    /*Todavia no se xD*/
     }
 }
 
@@ -33,7 +33,7 @@
 .cm-variable, .cm-variable-2, .cm-variable-3, .cm-operator, .cm-meta, .cm-bracket {color: @foreground;}
 .cm-comment {color: #3a4944;} /*Aqui para un comentario imagino xD*/
 .cm-error, .cm-minus {color: #97f0ed;} /* Importante otros atributos del css*/
-.cm-header {color: #d85896;} /*Color rosita ni ideas*/
+.cm-header {color: #24ff12;} /*Color rosita para lineas seleccionadas*/
 .cm-link {color: #b77fdb; text-decoration: none;}
 .cm-rangeinfo {color: #6c71c4;}
 .cm-keyword, .cm-qualifier, .cm-builtin, .cm-tag, .cm-quote {color: #008b8b;} /*Importante color de las etiquetas html, clases css*/
