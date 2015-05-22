@@ -1,0 +1,6 @@
+#Para ignorar la Paleta de colores de 
+/*.jpg
+/*.jpeg
+/*.png
+
+initializr/
