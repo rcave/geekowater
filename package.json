@@ -1,10 +1,10 @@
  {
     "name": "roberthchan.geekotheme",
-    "title": "Geeko Water",
-    "description": "Tema basado en la guía de estilo de Peter Gabriel's Debut Album en TheDaysColor, con un toque Geeko.",
-    "homepage": "https://github.com/roberthchan/geekotheme",
-    "version": "0.1.0",
-    "author": "Roberth Chan chanbalamb@gmail.com (http://soundcoloryellow.wordpress.com/)",
+    "title": "Geekowater",
+    "description": "Tema Geeko basado en la guía de estilo de Peter Gabriel's Debut Album en TheDaysColor.",
+    "homepage": "https://github.com/roberthchan/roberthchan.geekotheme",
+    "version": "0.1.1",
+    "author": "Roberth Chan chanbalamb@gmail.com (http://wp.me/p5cVcr-2X)",
     "license": "CC BY",
     "theme": {
         "file": "theme.css",
