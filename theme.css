@@ -24,7 +24,7 @@
     .CodeMirror-gutter-elt
     {
         background: rgba(0, 0, 0, 0.2);
-        color: #40ff27; /* color del numero de linea*/
+        color: #ff6060; /* color del numero de linea*/
     }
     .inline-widget .CodeMirror-gutter-elt
     {
@@ -33,19 +33,19 @@
 }
 
 .cm-atom, .cm-string, .cm-string-2, .cm-hr
-{color: #56a0ac;} /*Importante Color de las variables y textos variables*/
+{color: #56a0ac;} /*Variables y Textos varios Definidos*/
 .cm-number, .cm-attribute, .cm-plus
-{color: #1a6577;} /*Importante las id clases de html5*/
+{color: #1a6577;} /*ID Clases HTML5 Definido*/
 .cm-def, .cm-property
-{color: rgb(200, 193, 183)}/*Importante atributos del css*/
+{color: rgb(200, 193, 183)}/*Atributis CSS Definido*/
 .cm-variable, .cm-variable-2, .cm-variable-3, .cm-operator, .cm-meta, .cm-bracket
 {color: @foreground;}
 .cm-comment
 {color: #7f8d8e;} /*Comentarios Definido*/
 .cm-error, .cm-minus
-{color: #97f0ed;} /* Importante otros atributos del css*/
+{color: #97f0ed;} /* Atributos del CSS Definido*/
 .cm-header
-{color: #ff00d8;} /*#*/
+{color: #ff0000;} /*#*/
 .cm-link
 {color: #b77fdb; text-decoration: none;}
 .cm-rangeinfo
@@ -75,7 +75,7 @@
 
 .CodeMirror-linenumber
 {
-    color: #3a4944;  /*Color de la linea de los numeros*/
+    color: #69ff3e;  /*Serie de numeros Provando*/
 }
 .CodeMirror .CodeMirror-selected
 {
@@ -120,12 +120,12 @@
     .CodeMirror .CodeMirror-activeline .CodeMirror-gutter-elt
     {
         background: transparent;
-        color: #767676;
+        color: #767676;/*#*/
     }
 
     .CodeMirror-focused .CodeMirror-activeline-background
     {
-        background: #2f2f2f;
+        background: #2f2f2f;/*#*/
     }
 
     .CodeMirror-focused .CodeMirror-activeline
