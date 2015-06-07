@@ -75,7 +75,7 @@
 
 .CodeMirror-linenumber
 {
-    color: #69ff3e;  /*Serie de numeros Provando*/
+    color: #7f8d8e;  /*Serie de numeros Provando*/
 }
 .CodeMirror .CodeMirror-selected
 {
@@ -89,7 +89,7 @@
 .CodeMirror-matchingbracket, .CodeMirror-matchingtag
 {
     /* Garantizar la visibilidad contra fondo gris editor en línea */
-    background-color: #162623; /*Cierre de corchetes y seleccion completa de una seccion*/
+    background-color: rgba(22, 38, 35, 0.62); /*Cierre de corchetes y seleccion completa de una seccion*/
     color: #00d319 !important; /*Letras dentro del la seccion sombreada*/
 }
 
