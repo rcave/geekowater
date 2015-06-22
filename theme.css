@@ -55,12 +55,13 @@
 
 /* Extra CSS */
 
+/*Buscar*/
 .CodeMirror-searching
 {
-    background-color: #d3cd69;
+    background-color: #7fb774;
     &.searching-current-match
     {
-        background-color: #5ff644;
+        background-color: #0bff00;
     }
 }
 .CodeMirror-cursor
@@ -75,7 +76,7 @@
 
 .CodeMirror-linenumber
 {
-    color: #7f8d8e;  /*Serie de numeros Provando*/
+    color: #7f8d8e;  /*Serie de numeros Definido*/
 }
 .CodeMirror .CodeMirror-selected
 {
