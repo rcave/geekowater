@@ -10,5 +10,5 @@ Gracias por escoger mi tema, si tienes alguna sugerencia es bienvenida.
 El proceso de la proxima entrega: Geekowater 0.1.1
 
 ![alt text](https://soundcoloryellow.files.wordpress.com/2015/03/geekowater0-1-1.png)
-
+Actualmente en la version 0.1.2
 Gracias!
