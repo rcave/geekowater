@@ -91,7 +91,7 @@
 {
     /* Garantizar la visibilidad contra fondo gris editor en línea */
     background-color: rgba(22, 38, 35, 0.62); /*Cierre de corchetes y seleccion completa de una seccion*/
-    color: #00d319 !important; /*Letras dentro del la seccion sombreada*/
+    color: rgba(0, 211, 25, 0.83) !important; /*Letras dentro del la seccion sombreada ligeramente oscurecida*/
 }
 
 .CodeMirror-overwrite .CodeMirror-cursor
