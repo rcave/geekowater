@@ -41,7 +41,7 @@
 .cm-variable, .cm-variable-2, .cm-variable-3, .cm-operator, .cm-meta, .cm-bracket
 {color: @foreground;}
 .cm-comment
-{color: #7f8d8e;} /*Comentarios Definido*/
+{color: rgba(127, 141, 142, 0.3);} /*Comentarios Definido*/
 .cm-error, .cm-minus
 {color: #97f0ed;} /* Atributos del CSS Definido*/
 .cm-header
